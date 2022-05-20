@@ -37,9 +37,7 @@ Here are some ideas to get you started:
 
 **Languages and Tools:**  
 
-<a href="https://github.com/rajadileepkolli">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajadileepkolli&theme=light&count_private=true&layout=compact" alt="Siva's most used languages" />
-</a>
-<a href="https://github.com/rajadileepkolli">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajadileepkolli&show_icons=true&theme=light&line_height=27&include_all_commits=true&count_private=true&hide=issues,prs,contribs" alt="Siva's github stats"/>
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajadileepkolli&theme=light&count_private=true&layout=compact" alt="Raja's most used languages" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=rajadileepkolli&show_icons=true&theme=vue&hide_title=true&count_private=true" alt="Raja's github stats"/>
+<img width="50%" style="margin:20px 0;" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=rajadileepkolli&" alt="rajadileepkolli" />
+
